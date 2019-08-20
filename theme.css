@@ -1,0 +1,136 @@
+.bg-dark {
+    background-color: black!important;
+}
+
+.navbar-dark .navbar-nav .nav-link {
+    font-family: serif;
+    font-size: 12px;
+    float: right;
+    text-align: center;
+    text-decoration: none;
+    color: white;
+    padding: 20px;
+}
+
+.coffee-banner {
+  height: 100vh;
+  min-height: 500px;
+  background-image: url(images/coffee.jpg);
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+}
+
+.to-create{
+    color: grey;
+    font-size: 30px;
+    font-family: serif;
+    padding: 20px;
+    display: inline-block;
+    background-color: black;
+}
+
+.social{
+    float: right;
+    display: inline-block;
+    padding-top: 20px;
+    padding-right: 50px;
+    background-color: black;
+}
+
+.text {
+    padding-left: 50px;
+}
+
+.info-blogs {
+    background: white;
+    height: 100%;
+}
+
+.sidebar {
+    background: #e8e8e8;
+    height: 100&;
+    text-align: center;
+    width: 120px;
+}
+
+.pics {
+    padding: 20px;
+    display: inline-block;
+}
+
+.img-thumbnail {
+    float: left;
+    margin-right: 20px;
+}
+
+h1 {
+    font-size: 25px;
+    font-family: 'EB Garamond', serif;
+}
+
+.paragraph {
+   font-size: 14px;
+   font-family: 'Georgia', serif;
+}
+
+.col-lg-12 {
+    display: inline-block;
+}
+.img-fluid {
+    margin-bottom: 10px;
+}
+
+.footer {
+    background-color: black;
+    height: 100%;
+}
+
+.btn-block{
+    display: block;
+    width: 25%;
+    background-color: #559dc2;
+    border-color: #559dc2
+}
+
+.page-link {
+    color: grey;
+    background-color: lightgrey;
+}
+
+.page-item {
+    font-size: 8px;
+}
+
+.sidebar-h1 {
+    margin-top: 10px;
+}
+
+.footer-h1{
+    font-color: white;
+    background-color: black;   
+}
+
+.special {
+    color: white;
+    padding-top: 20px;
+    font-family: 'Playfair Display', serif;
+    
+}
+
+.special2 {
+    color: grey;
+    font-size: 12px;
+    font-family: 'Lora', serif;
+    
+}
+
+.special3 {
+    color: grey;
+    font-size: 16px;
+    font-family: 'Lora', serif;
+}
+
+.thumbnail{
+    padding:5px;
+}
